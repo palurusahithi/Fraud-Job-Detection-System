@@ -94,6 +94,16 @@ python app.py
 - Add database integration
 
 ---
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Prediction Result
+
+![Prediction Result](screenshots/result.png)
+
 
 ## Author
 
