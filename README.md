@@ -94,16 +94,17 @@ python app.py
 - Add database integration
 
 ---
+
+
 ## Screenshots
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.png.png)
 
 ### Prediction Result
 
-![Prediction Result](screenshots/result.png)
-
+![Prediction Result](screenshots/result.png.png)
 
 ## Author
 
