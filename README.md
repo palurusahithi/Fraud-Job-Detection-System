@@ -100,11 +100,11 @@ python app.py
 
 ### Home Page
 
-![Home Page](screenshots/home.png.png)
+![Home Page](screenshots/home.png)
 
 ### Prediction Result
 
-![Prediction Result](screenshots/result.png.png)
+![Prediction Result](screenshots/result.png)
 
 ## Author
 
